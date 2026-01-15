@@ -79,7 +79,7 @@ zero-fome/
 
 ## Link do produto final
 
-- https://yuric-zerofome.streamlit.app/cuisines
+- https://yuric-zerofome.streamlit.app
 
 ## 📧 Contato
 
