@@ -1,0 +1,9 @@
+pandas
+numpy
+plotly
+plotly-express
+folium
+streamlit
+streamlit-folium
+inflection 
+pathlib
