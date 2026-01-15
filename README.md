@@ -49,6 +49,8 @@ Os pré-requisitos para o uso do código são a instalação das bibliotecas lis
 
 ```bash
 git clone https://github.com/YuriCarl/Zero-Fome
+```
+```bash
 cd zero-fome
 ```
 
