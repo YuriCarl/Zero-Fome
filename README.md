@@ -48,7 +48,7 @@ Os pré-requisitos para o uso do código são a instalação das bibliotecas lis
 ### Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/zero-fome.git
+git clone https://github.com/YuriCarl/Zero-Fome
 cd zero-fome
 ```
 
