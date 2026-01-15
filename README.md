@@ -54,12 +54,15 @@ cd zero-fome
 
 ### Instale as dependências:
 
+```bash
 pip install -r requirements.txt
+```
 
 ### Execute o Streamlit:
 
+```bash
 streamlit run ./main.py
-
+```
 
 ## 📁 Estrutura do Projeto
 
@@ -74,7 +77,7 @@ zero-fome/
 
 ## 📧 Contato
 
-yurioli.dev@gmail.com
-https://www.linkedin.com/in/yurioli/
+- yurioli.dev@gmail.com
+- https://www.linkedin.com/in/yurioli/
 
 ---
