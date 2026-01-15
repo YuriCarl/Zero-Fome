@@ -12,7 +12,7 @@ A Fome Zero é um marketplace que conecta clientes a restaurantes globalmente. P
 - Distribuição geográfica das unidades.
 - Custos médios de pratos para duas pessoas.
 
-### 🎯 Tecnologias utilizadas
+### 🛠️ Tecnologias utilizadas
 
 O projeto foi construído inteiramente em Python, utilizando as seguintes bibliotecas:
 
