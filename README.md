@@ -3,9 +3,9 @@
 
 ## 📋 Descrição
 
-Este projeto apresenta uma análise detalhada dos dados da marketplace de restaurantes Fome Zero. O objetivo principal é fornecer insights estratégicos para o CEO da empresa, permitindo uma visão holística sobre os restaurantes cadastrados, países atendidos e performance das culinárias.
+Este projeto apresenta uma análise detalhada dos dados da marketplace de restaurantes. O objetivo principal é fornecer insights estratégicos para o CEO da empresa, permitindo uma visão holística sobre os restaurantes cadastrados, países atendidos e performance das culinárias.
 
-A Fome Zero é um marketplace que conecta clientes a restaurantes globalmente. Para entender melhor o crescimento e a qualidade do serviço, foi desenvolvida uma solução de visualização de dados que responde a perguntas fundamentais sobre:
+A Zero Fome é um marketplace que conecta clientes a restaurantes globalmente. Para entender melhor o crescimento e a qualidade do serviço, foi desenvolvida uma solução de visualização de dados que responde a perguntas fundamentais sobre:
 
 - Crescimento da base de restaurantes e cidades.
 - Avaliação média por país e culinária.
